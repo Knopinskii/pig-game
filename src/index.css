@@ -1,0 +1,6 @@
+:root {
+  background: linear-gradient(to bottom, #364f6b, #253b57);
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
